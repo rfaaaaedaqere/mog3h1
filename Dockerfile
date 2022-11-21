@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="3850b3e4-7295-4069-87a5-4bf79cf99a21"
+ARG AUUID="acff35a7-d417-4fa9-a0c8-03b6f104f3ec"
 ARG CADDYIndexPage="https://github.com/rfaaaaedaqere/3DCEList/archive/refs/heads/main.zip"
 ARG PORT=8080
 
